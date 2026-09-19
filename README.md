@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue)
 
-A [homeos](https://github.com/hainet50b/homeos) plugin for [Homebrew Cask](https://docs.brew.sh/Homebrew-Cask), which installs macOS GUI applications and binary distributions via `brew install --cask`. Pair with the [homebrew plugin](https://github.com/hainet50b/homeos-plugin-homebrew) when a package is a Formula instead of a Cask.
+A [homeos](https://github.com/homeos-dev/homeos) plugin for [Homebrew Cask](https://docs.brew.sh/Homebrew-Cask), which installs macOS GUI applications and binary distributions via `brew install --cask`. Pair with the [homebrew plugin](https://github.com/homeos-dev/homeos-plugin-homebrew) when a package is a Formula instead of a Cask.
 
 ## Usage
 
